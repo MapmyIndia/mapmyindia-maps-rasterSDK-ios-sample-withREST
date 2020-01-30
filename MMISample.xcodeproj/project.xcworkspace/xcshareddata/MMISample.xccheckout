@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E659C3BF-9627-4EE1-A42A-5B23648A2C64</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MMISample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>917ac0f8-dfd0-407e-9527-79a7864b4a38</key>
+		<string>http://122.180.94.251/svn/MapSDK-IOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UseFramework/MMISample/MMISample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>917ac0f8-dfd0-407e-9527-79a7864b4a38</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>917ac0f8-dfd0-407e-9527-79a7864b4a38</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>917ac0f8-dfd0-407e-9527-79a7864b4a38</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MapSDK-IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
