@@ -106,19 +106,12 @@ Add the following to your `application:didFinishLaunchingWithOptions`: method, r
 
 ```objectivec
 
-[MapmyIndiaAccountManager setMapSDKKey:@.MAP SDK KEY.];
-
-[MapmyIndiaAccountManager setRestAPIKey:@"REST API KEY.];
-
-[MapmyIndiaAccountManager setAtlasClientId:@.ATLAS CLIENT ID"];
-
-[MapmyIndiaAccountManager setAtlasClientSecret:@.ATLAS CLIENT
-
-SECRET.];[MapmyIndiaAccountManager setAtlasGrantType:@.GRANT TYPE.];
-
-//always put client_credentials
-
-[MapmyIndiaAccountManager setAtlasAPIVersion:@.1.3.11"]; // Optional; deprecated
+[MapmyIndiaAccountManager setMapSDKKey:@"MAP SDK_KEY"];
+[MapmyIndiaAccountManager setRestAPIKey:@"REST API_KEY"];
+[MapmyIndiaAccountManager setAtlasClientId:@"ATLAS CLIENT_ID"];
+[MapmyIndiaAccountManager setAtlasClientSecret:@"ATLAS CLIENT_SECRET"];
+[MapmyIndiaAccountManager setAtlasGrantType:@"GRANT_TYPE"]; //always put client_credentials
+[MapmyIndiaAccountManager setAtlasAPIVersion:@"1.3.11"]; // Optional; deprecated
 
 ```
 
@@ -126,17 +119,12 @@ SECRET.];[MapmyIndiaAccountManager setAtlasGrantType:@.GRANT TYPE.];
 
 ```swift
 
-MapmyIndiaAccountManager.setMapSDKKey("MAP SDK KEY")
-
-MapmyIndiaAccountManager.setRestAPIKey(.REST API KEY")
-
-MapmyIndiaAccountManager.setAtlasClientId("ATLAS CLIENT ID")
-
-MapmyIndiaAccountManager.setAtlasClientSecret("ATLAS CLIENT SECRET")
-
-MapmyIndiaAccountManager.setAtlasGrantType("GRANT TYPE.) //always put client_credentials
-
-MapmyIndiaAccountManager.setAtlasAPIVersion(.1.3.11") // Optional; deprecated
+MapmyIndiaAccountManager.setMapSDKKey("MAP SDK_KEY")
+MapmyIndiaAccountManager.setRestAPIKey("REST API_KEY")
+MapmyIndiaAccountManager.setAtlasClientId("ATLAS CLIENT_ID")
+MapmyIndiaAccountManager.setAtlasClientSecret("ATLAS CLIENT_SECRET")
+MapmyIndiaAccountManager.setAtlasGrantType("GRANT_TYPE") //always put client_credentials
+MapmyIndiaAccountManager.setAtlasAPIVersion("1.3.11") // Optional; deprecated
 
 ```
 
