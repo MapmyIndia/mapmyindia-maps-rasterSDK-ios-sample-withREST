@@ -7,13 +7,12 @@
 
   
 
-## Getting Started
+## [Getting Started](#Getting-Started)
 
  MapmyIndia’s iOS Map SDK helps to embed MapmyIndia maps within your iOS application. Through customized raster tiles, you can add different map layers to your application and add bunch of controls and gestures to enhance map usability thus creating potent map based solutions for your customers.
 
-  
 
-## API Usage
+## [API Usage](#API-Usage) 
 
 Your MapmyIndia Maps SDK usage needs a set of license keys ([get them here](http://www.mapmyindia.com/api/signup) ) and is governed by the API [terms and conditions](https://www.mapmyindia.com/api/terms-&-conditions).
 
@@ -27,7 +26,7 @@ shared between platforms, so the API hits you make from a web application, Andro
 
   
 
-## Setup your Project
+## [Setup your Project](#Setup-your-Project)
 
   
 
